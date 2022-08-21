@@ -2,7 +2,7 @@
 
 For projects with (optional) usage of CUDA and OpenCV.
 
-Actual version can be found on https://github.com/YuriyN/code_template_cpp
+Actual version can be found on https://github.com/YuriyN/CodeTemplateCpp
 
 - Change the project name on line 1 in CMakeLists.txt.
 - Keep your binaries in "build/" folder and do not upload it to the repository.
